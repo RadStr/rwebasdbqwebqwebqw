@@ -6,7 +6,7 @@
   ],
   "userMetadata": {
     "label": {
-      "en": "Data Specification Vocabulary (DSV)rasttest"
+      "en": "Data Specification Vocabulary (DSV)rasttestab"
     },
     "description": {
       "en": "This specification defines terms needed to describe application profiles,"
@@ -16,7 +16,7 @@
   },
   "metadata": {
     "creationDate": "2026-04-22T08:00:24.775Z",
-    "modificationDate": "2026-04-22T08:03:53.000Z"
+    "modificationDate": "2026-04-22T08:10:25.026Z"
   },
   "_version": 1,
   "_exportVersion": 2,
